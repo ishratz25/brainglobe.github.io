@@ -234,6 +234,11 @@ see [the blogpost](/blog/cavefish-atlas-added).
 This atlas is only available at 2μm resolution:
 * `sju_cavefish_2um`
 
+### [Cuttlefish](https://doi.org/10.1016/j.cub.2023.06.007) 
+This is a brain atlas of the dwarf cuttlefish (Sepia bandensis) from [Montague et al. (2023)](https://doi.org/10.1016/j.cub.2023.06.007).
+For more details please see [this blogpost](https://brainglobe.info/blog/cuttlefish-atlas-added.html)
+* `columbia_cuttlefish_50um` 
+
 ## Amphibian
 ### [UNAM Axolotl Brain Atlas](https://doi.org/10.1038/s41598-021-89357-3)
 This is a magnetic resonance imaging based atlas of the Axolotl (Ambystoma mexicanum) from 
